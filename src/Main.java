@@ -28,6 +28,7 @@ public class Main {
         machine.insertContainer(c1);
         machine.insertContainer(c2);
         machine.insertContainer(c3);
+        machine.insertContainer(c3);
 
         System.out.println("answer");
         Scanner input = new Scanner(System.in);
